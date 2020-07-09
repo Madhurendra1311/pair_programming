@@ -1,17 +1,7 @@
-# Problem
-## TODO LIST
-Use arrow functions wherever necessary
-Use es6 features
-Create a TODO application:
+##TODO LIST
 
-Add to do
-
-Remove an item
-
-Edit and update item
-
-There should be a checkbox to indicate if the item has been done or not
-
-If the item is done you should strike it off and not show it on the todo list.
-
-There should be a completed task button to show and hide the task
+1) Add todo
+2) remove item
+3) edit and update item 
+4) show and hide
+using the feature es6
